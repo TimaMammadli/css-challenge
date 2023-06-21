@@ -1,0 +1,49 @@
+body{
+    background-image: url(./bg-intro-desktop.png);
+    height: 100vh;
+    background-color: hsl(0, 100%, 74%) ;
+
+}
+.Tima{
+    text-align: center;
+    margin: 150px;
+}
+.Tima2{ 
+    border-radius: 10px;
+    padding: 20px;
+
+width: 350px;
+display: flex; flex-direction: column;
+gap: 30px;
+}
+.title-text{
+    color: #fff;
+}
+.list{
+width: 300px;
+border-radius: 10px;
+background-color: white;
+display: flex;
+flex-direction: column;
+gap: 20px;
+padding: 20px 30px;
+
+}
+.ttt{
+    text-align: center;
+    display: flex;
+}
+main{
+    margin: 150px;
+}
+.button{
+    border-radius: 10px;
+}
+.btn{
+    padding: 10px 20px;
+    background-color: lime;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    font-weight: 500;
+}
